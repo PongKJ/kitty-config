@@ -64,7 +64,7 @@ press `ctrl` + `a` in the same time, release and then, press R (`shift`+`r`)
 
 | key                          | description       |
 | ---------------------------- | ----------------- |
-| <kbd>ctrl</kbd>+<kbd>q</kbd> | quit kitty        |
+| <kbd>alt</kbd>+<kbd>q</kbd> | quit kitty        |
 | <kbd>f11</kbd>               | toggle fullscreen |
 
 ### window
@@ -78,14 +78,14 @@ press `ctrl` + `a` in the same time, release and then, press R (`shift`+`r`)
 | <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>x</kbd>                   | close window                 |
 | <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>z</kbd>                   | zoom (maxmize) window        |
 | <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>r</kbd>               | resize window                |
-| <kbd>ctrl</kbd>+<kbd>←</kbd>                                | goto left window               |
-| <kbd>ctrl</kbd>+<kbd>→</kbd>                                | goto right window              |
-| <kbd>ctrl</kbd>+<kbd>↑</kbd>                                | goto up window                 |
-| <kbd>ctrl</kbd>+<kbd>↓</kbd>                                | goto down window               |
-| <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>h</kbd>                   | goto left window               |
-| <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>l</kbd>                   | goto right window              |
-| <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>k</kbd>                   | goto up window                 |
-| <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>j</kbd>                   | goto down window               |
+| <kbd>ctrl</kbd>+<kbd>←</kbd>                                | goto left window             |
+| <kbd>ctrl</kbd>+<kbd>→</kbd>                                | goto right window            |
+| <kbd>ctrl</kbd>+<kbd>↑</kbd>                                | goto up window               |
+| <kbd>ctrl</kbd>+<kbd>↓</kbd>                                | goto down window             |
+| <kbd>super</kbd>+<kbd>h</kbd>                               | goto left window             |
+| <kbd>super</kbd>+<kbd>l</kbd>                               | goto right window            |
+| <kbd>super</kbd>+<kbd>k</kbd>                               | goto up window               |
+| <kbd>super</kbd>+<kbd>j</kbd>                               | goto down window             |
 | <kbd>shift</kbd>+<kbd>←</kbd>                               | move current window to left  |
 | <kbd>shift</kbd>+<kbd>→</kbd>                               | move current window to right |
 | <kbd>shift</kbd>+<kbd>↑</kbd>                               | move current window to up    |
